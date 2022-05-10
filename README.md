@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skiken-aziz, i'm IT-Engineer
+- 👋 Hi, I’m @skiken-aziz, i'm Java Developement Engineer
 - 👀 I’m interested in java developement
 - 🌱 I’m currently learning some Devops technologie
 - 📫 reach me on my email: skikenaziz@gmail.com
